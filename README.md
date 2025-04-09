@@ -1,3 +1,3 @@
 # daily_dose_notes
 
-A minimal notes applivation
+A minimal notes application
